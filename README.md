@@ -6,7 +6,7 @@ First terminal:
 
 ### `npm i`
 
-### `cd api`
+### `npm run dev`
 
 Second terminal
 
